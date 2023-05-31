@@ -1,0 +1,14 @@
+{
+  "name": "mock-function",
+  "version": "1.0.0",
+  "description": "Writing a mock function using jest",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joe Farrell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
